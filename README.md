@@ -38,7 +38,7 @@
   <br />
   
 
-![followers](https://img.shields.io/github/followers/k-oyun?style=social)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=k-oyun.k-oyun"  /> ![followers](https://img.shields.io/github/followers/k-oyun?style=social)
 
 
 
